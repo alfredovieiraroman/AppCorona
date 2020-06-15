@@ -12,8 +12,7 @@ O projeto faz parte de uma avaliação parcial da disciplina de Desenvolvimento 
 **Autores**
 | 
 Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| Alfredo Vieira Roman | [Alfredo Roman](https://github.com/alfredovieiraroman) | [Linkedin](www.linkedin.com/in/alfredo-vieira-roman) | alfredo.vieira.roman@gmail.com |
+ Alfredo Vieira Roman | [Alfredo Roman](https://github.com/alfredovieiraroman) | [Linkedin](www.linkedin.com/in/alfredo-vieira-roman) | alfredo.vieira.roman@gmail.com |
 
 
 **Tecnologias**
